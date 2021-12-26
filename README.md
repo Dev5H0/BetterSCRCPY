@@ -22,4 +22,5 @@ This project was only made for the purpose of making "scrcpy" more ease-of-use f
 
 # Contact
 Github: [BetterSCRCPY Issues Page](https://github.com/Dev5H0/BetterSCRCPY/issues)
+
 Discord: 5H0#5782
