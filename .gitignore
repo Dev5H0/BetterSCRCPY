@@ -1,5 +1,6 @@
 __pycache__/
-***__pycache__/
 exe_conversion/
 releases/
 output/
+
+*.lnk
