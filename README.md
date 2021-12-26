@@ -21,4 +21,5 @@ If anything breaks, please run "debug.bat", and make an issue with a screenshot 
 This project was only made for the purpose of making "scrcpy" more ease-of-use for myself, and uploaded to Github for the possible convenience of other; if a verifiable member of Genymobile asks, this project may be taken down without prior notice. 
 
 # Contact
+https://github.com/Dev5H0/BetterSCRCPY/issues
 Discord: 5H0#5782
